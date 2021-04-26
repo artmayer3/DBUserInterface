@@ -1,0 +1,109 @@
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2_MarkupCompile.cache
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2_MarkupCompile.lref
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\Lab6.2.exe.config
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\Lab6.2.exe
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\Lab6.2.pdb
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\WPF.MDI.dll
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.g.resources
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6._2.Properties.Resources.resources
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.CopyComplete
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.exe
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.pdb
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Table.g.cs
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Table.baml
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\InsEdit.g.cs
+C:\Users\admin\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\InsEdit.baml
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\Lab6.2.exe.config
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\Lab6.2.exe
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\Lab6.2.pdb
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.dll
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.SqlServer.dll
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.dll
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\WPF.MDI.dll
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.xml
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\EntityFramework.SqlServer.xml
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.xml
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\bin\Debug\System.Data.SQLite.dll.config
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csprojAssemblyReference.cache
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\InsEdit.g.cs
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\MainWindow.g.cs
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Table.g.cs
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\App.g.cs
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2_MarkupCompile.cache
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2_MarkupCompile.lref
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\InsEdit.baml
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\MainWindow.baml
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Table.baml
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.g.resources
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6._2.Properties.Resources.resources
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.GenerateResource.cache
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.CoreCompileInputs.cache
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.CopyComplete
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.exe
+E:\Desktop\.NET\4 семестр\Lab6.2\Lab6.2\obj\Debug\Lab6.2.pdb
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\Lab6.2.exe.config
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\Lab6.2.exe
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\Lab6.2.pdb
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\Npgsql.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Threading.Channels.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\WPF.MDI.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\Npgsql.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Threading.Channels.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\InsEdit.g.cs
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Table.g.cs
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2_MarkupCompile.cache
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2_MarkupCompile.lref
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\InsEdit.baml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Table.baml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2.g.resources
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6._2.Properties.Resources.resources
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2.csproj.CopyComplete
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2.exe
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Lab6.2.pdb
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Auth.g.cs
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\obj\Debug\Auth.baml
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\MaterialDesignColors.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\admin\Desktop\СУБД\Lab8-9\Lab6.2\Lab6.2\bin\Debug\MaterialDesignThemes.Wpf.xml

@@ -1,0 +1,31 @@
+﻿<Window x:Class="Lab6._2.InsEdit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:Lab6._2"
+        mc:Ignorable="d"
+        Name="InsEditWindow"
+        Title="InsEdit" Height="333" Width="451.5" WindowStartupLocation="CenterScreen">
+    <Grid Name="gridInsEdit" Margin="0,0,2,0">
+        <Button Name="button1" Content="Добавить" HorizontalAlignment="Left" Margin="70,240,0,0" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+        <Button Name="button2" Content="Отмена" HorizontalAlignment="Left" Margin="209,240,0,0" VerticalAlignment="Top" Width="75" Click="button2_Click" />
+        <Label Name="label1" Content="Label" HorizontalAlignment="Left" Margin="50, 32, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" />
+        <Label Name="label2" Content="Label" HorizontalAlignment="Left" Margin="50, 95, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" />
+        <Label Name="label3" Content="Label" HorizontalAlignment="Left" Margin="50, 165, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" />
+        <Label Name="label4" Content="Label" HorizontalAlignment="Left" Margin="50, 228, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" />
+        <Label Name="label5" Content="Label" HorizontalAlignment="Left" Margin="50, 291, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" />
+        <Label Name="label6" Content="Label" HorizontalAlignment="Left" Margin="50, 354, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" />
+        <TextBox Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="176, 36, 0, 0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+        <TextBox Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="176, 99, 0, 0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+        <TextBox Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="176, 169, 0, 0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+        <TextBox Name="textBox4" HorizontalAlignment="Left" Height="23" Margin="176, 232, 0, 0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+        <TextBox Name="textBox5" HorizontalAlignment="Left" Height="23" Margin="176, 295, 0, 0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+        <TextBox Name="textBox6" HorizontalAlignment="Left" Height="23" Margin="176, 358, 0, 0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+        <DatePicker Name="datePicker1" HorizontalAlignment="Left" Margin="176, 99, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" SelectedDate="{x:Static sys:DateTime.Now}" />
+        <DatePicker Name="datePicker2" HorizontalAlignment="Left" Margin="176, 169, 0, 0" VerticalAlignment="Top" Visibility="Collapsed" SelectedDate="{x:Static sys:DateTime.Now}" />
+        <ComboBox Name="comboBox1" HorizontalAlignment="Left" Margin="294,205,0,0" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+        <ComboBox Name="comboBox2" HorizontalAlignment="Left" Margin="294,255,0,0" VerticalAlignment="Top" Width="120" Visibility="Collapsed" />
+    </Grid>
+</Window>
